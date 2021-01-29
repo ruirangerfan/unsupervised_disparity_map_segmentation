@@ -2,7 +2,7 @@
 
 ## 1. Publication
 
-This [paper](https://ieeexplore.ieee.org/document/8890001) has been published in IEEE Transactions on Intelligent Transportation Systems (T-ITS)
+This repository contains the demo code of our paper ["Road Damage Detection Based on Unsupervised Disparity Map Segmentation"](https://www.ruirangerfan.com/pdf/tits2019_fan.pdf), published in IEEE Transactions on Intelligent Transportation Systems (T-ITS).
 
 ## 2. demo code
 Please run `tits_source_code.m` to visualize our datasets.
