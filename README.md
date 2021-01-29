@@ -1,13 +1,17 @@
 # Unsupervised Disparity Map Segmentation for Road Damage Detection
 
-1. publication
+## 1. Publication
 
-IEEE TITS paper DOI: 10.1109/TITS.2019.2947206
+This [paper](https://ieeexplore.ieee.org/document/8890001) has been published in IEEE Transactions on Intelligent Transportation Systems (T-ITS)
 
-paper link: https://ieeexplore.ieee.org/document/8890001
+## 2. demo code
+Please run `tits_source_code.m` to visualize our datasets.
+
+## 3. Citation
 
 Please cite our papers when using our source code:
 
+```
 @Article{fan2019road_damage,
   author        = {Fan, Rui and Liu, Ming},
   title         = {Road Damage Detection Based on Unsupervised Disparity Map Segmentation},
@@ -19,7 +23,8 @@ Please cite our papers when using our source code:
   keywords      = {Road damage detection, disparity map segmentation, stereo rig roll angle, road disparity projection model, numerical solution.},
   url           = {https://ieeexplore.ieee.org/document/8890001},
 }
-
+```
+```
 @article{fan2020pothole,
   title={Pothole Detection Based on Disparity Transformation and Road Surface Modeling},
   author={Fan, Rui and Ozgunalp, Umar and Hosking, Brett and Liu, Ming and Pitas, Ioannis},
@@ -28,18 +33,16 @@ Please cite our papers when using our source code:
   pages={897--908},
   year={2020}
 }
-
+```
+```
 @inproceedings{fan2019real,
   title={Real-time dense stereo embedded in a uav for road inspection},
   author={Fan, Rui and Jiao, Jianhao and Pan, Jie and Huang, Huaiyang and Shen, Shaojie and Liu, Ming},
   booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops},
   year={2019}
 }
+```
 
+## 4. Contact
 
-2. demo code
-Please run "tits_source_code.m" to visualize our datasets.
-
-3. contact me
-e-mail: rui.fan@ieee.org, ranger_fan@outlook.com 
-web: https://www.ruirangerfan.com/ linkedin: https://www.linkedin.com/in/rui-fan-524983a6/
+e-mail: rui.fan@ieee.org
